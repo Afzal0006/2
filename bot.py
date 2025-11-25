@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes, CallbackQuer
 from pymongo import MongoClient
 
 # ==== CONFIG ====
-BOT_TOKEN = "8083468954:AAEyagOAVS119s73XBjCBQbk5WqscZHqwgg"
+BOT_TOKEN = "7834569419:AAFalWDCbXXeM-MyQMuKbOdF0xsixVFVf4A"
 MONGO_URI = "mongodb+srv://afzal99550:afzal99550@cluster0.aqmbh9q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 OWNER_IDS = [8280018677]  # <-- Apna Telegram ID yaha daalna hai
 
